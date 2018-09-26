@@ -8,7 +8,7 @@ public class Ensemble {
     	cases[i] = newCase;
     }
 
-    public Case[] geCases()
+    public Case[] getCases()
     {
     	return cases;
     }
